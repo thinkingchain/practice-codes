@@ -1,0 +1,12 @@
+{
+  "attributes": [
+    {
+      "trait_type": "base",
+      "value": "narwhal"
+    }
+  ],
+  "description": "Friendly thinkchain Creature that enjoys long swims in the ocean.",
+  "external_url": "https://www.thinkingchain.app/courses",
+  "image": "https://thinkingchain.github.io/practice-codes/hardhat.jpg",
+  "name": "Thinkchain Phoenix2"
+}
